@@ -1,0 +1,1 @@
+Explore service and protocol language design with 10,000 records, 1,000 JASP programs, and the 22-chapter textbook. Examine typed messages, protocol states, deadlines, retries, and idempotency through specifications, examples, and evidence catalogs. A structured reference for educators and researchers examining communication contracts and failures.

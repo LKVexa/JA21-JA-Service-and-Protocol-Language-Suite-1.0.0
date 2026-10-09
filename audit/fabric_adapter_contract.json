@@ -1,0 +1,14 @@
+{
+  "profile": "ja.service",
+  "proposed_contribution": "Typed messages, protocol states, deadlines, retries and idempotency",
+  "reuse_boundary": "Metadata header is not an extra program; prove actual transport failure behavior.",
+  "source_archive_sha256": "a29639245b9fd11639622abfe179f7b690093ff44aa4b102fb8e73de14a9f375",
+  "source_evidence_paths": [
+    "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/SUITE_CATALOG.md",
+    "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/catalogs/FEATURE_ATLAS.md",
+    "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/specification/GRAMMAR_SPECIFICATION.md",
+    "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/specification/LANGUAGE_SPECIFICATION.md"
+  ],
+  "executable_adapter_implemented": false,
+  "mathematical_foundation": "8S Penteract-S3 Master Coupled Mechanics Law for intended JA model; typed operator semantics require their owning profile."
+}

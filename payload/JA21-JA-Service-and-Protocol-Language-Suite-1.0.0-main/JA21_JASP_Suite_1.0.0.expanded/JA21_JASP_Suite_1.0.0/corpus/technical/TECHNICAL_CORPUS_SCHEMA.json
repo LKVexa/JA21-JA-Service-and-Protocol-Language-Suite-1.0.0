@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JA21 JA Service and Protocol Technical Corpus Record",
+  "type": "object",
+  "required": [
+    "record_id",
+    "sequence",
+    "language",
+    "profile_id",
+    "level",
+    "validation_class",
+    "feature",
+    "source",
+    "semantic_interpretation",
+    "ast",
+    "compiler_representation",
+    "runtime_representation",
+    "technical_explanation",
+    "validation_result",
+    "optimization_notes",
+    "source_sha256",
+    "publication_track"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^JASP-[0-9]{5}$"
+    },
+    "sequence": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10000
+    },
+    "profile_id": {
+      "const": "ja.service"
+    },
+    "extension": {
+      "const": ".jasp"
+    },
+    "level": {
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced",
+        "expert",
+        "compiler",
+        "runtime",
+        "optimization",
+        "validation",
+        "certification",
+        "deployment"
+      ]
+    },
+    "validation_class": {
+      "enum": [
+        "positive",
+        "negative",
+        "boundary",
+        "integration",
+        "security",
+        "performance",
+        "determinism",
+        "interoperability",
+        "recovery",
+        "certification"
+      ]
+    },
+    "feature": {
+      "enum": [
+        "authentication",
+        "authorization",
+        "backoff",
+        "backpressure",
+        "bidirectional_stream",
+        "client_stub",
+        "command",
+        "compatibility_version",
+        "deadline",
+        "delivery_guarantee",
+        "endpoint",
+        "error_contract",
+        "event",
+        "idempotency",
+        "local_transport",
+        "method",
+        "network_capability",
+        "offline_transport",
+        "protocol_state",
+        "protocol_validator",
+        "quota",
+        "rate_limit",
+        "remote_transport",
+        "request_schema",
+        "response_schema",
+        "retry",
+        "schema_validator",
+        "serialization",
+        "server_interface",
+        "service_declaration",
+        "service_discovery",
+        "test_double"
+      ]
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "publication_track": {
+      "enum": [
+        "01_service_foundations",
+        "02_contracts_and_schemas",
+        "03_protocol_and_streaming",
+        "04_reliability_and_flow",
+        "05_security_and_transport"
+      ]
+    }
+  }
+}

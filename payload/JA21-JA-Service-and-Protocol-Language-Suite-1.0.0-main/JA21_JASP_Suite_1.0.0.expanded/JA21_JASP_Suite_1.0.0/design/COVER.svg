@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#09111B"/>
+<g fill="none" stroke-width="5" opacity="0.88">
+<path d="M110 470 C300 180 470 550 650 245 S960 145 1090 350" stroke="#55D6C2"/>
+<path d="M110 360 C310 590 480 120 690 390 S960 535 1090 230" stroke="#6FA8FF"/>
+<path d="M110 250 C310 80 510 520 720 200 S970 130 1090 470" stroke="#9A7BFF"/>
+</g>
+<g fill="#D7B86C">
+<circle cx="110" cy="470" r="10"/><circle cx="650" cy="245" r="10"/><circle cx="1090" cy="350" r="10"/>
+</g>
+<text x="90" y="105" fill="#EAF2F8" font-family="sans-serif" font-size="48" font-weight="700">JA21 JA Service &amp; Protocol</text>
+<text x="92" y="155" fill="#9FB0C1" font-family="sans-serif" font-size="26">Technical Corpus · 1,000 Programs · Textbook · Evidence Toolchain</text>
+<text x="92" y="610" fill="#55D6C2" font-family="monospace" font-size="22">PROTOCOL WEAVE / AIR-GAP-SAFE EDITION 1.0.0</text>
+</svg>

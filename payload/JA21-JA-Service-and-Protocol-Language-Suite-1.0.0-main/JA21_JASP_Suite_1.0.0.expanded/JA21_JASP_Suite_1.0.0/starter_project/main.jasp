@@ -1,0 +1,22 @@
+ja source 0.3
+module starter.local_echo
+use Service
+policy no_network
+
+service LocalEcho {
+    message Request { text: Text }
+    message Response { text: Text, done: Flag }
+    endpoint echo(request: Request) -> Response
+        auth capability service.local
+        deadline 2s
+        retry max 1
+        idempotency request.text
+    protocol Session {
+        state Open
+        state Closed
+        transition finish: Open -> Closed
+    }
+    transport local_loop local
+}
+assert protocol.transition.valid == true
+emit json LocalEcho.compatibility_report

@@ -1,0 +1,18 @@
+{
+  "name": "Protocol Weave",
+  "background": "#09111B",
+  "surface": "#111F2D",
+  "primary": "#55D6C2",
+  "secondary": "#6FA8FF",
+  "accent": "#D7B86C",
+  "coupling": "#9A7BFF",
+  "text": "#EAF2F8",
+  "muted": "#9FB0C1",
+  "principles": [
+    "air-gap safe",
+    "local assets only",
+    "evidence first",
+    "print legible",
+    "monochrome resilient"
+  ]
+}

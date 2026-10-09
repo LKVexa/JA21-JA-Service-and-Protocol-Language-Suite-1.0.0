@@ -1,0 +1,128 @@
+[
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/JA21_JASP_TECHNICAL_CORPUS_10000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ab75f328e9e94da74bdbcd511a532460bc00231c62d3a8926a12ea5be535a857",
+    "updated_sha256": "8369e632e650259b7c2a602ea51d48bcb00917109e0394ab8f553460ce3bd541"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_00001_00500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "f15d4209aaf25a1477f6a26c8249b50bdf655af472b42b646680f49a35d23bd0",
+    "updated_sha256": "d54ac57af25b38895f4dfd4b3b83ab169365877443be8f6e3f39c576d3bb0bf6"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_00501_01000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "49705ae5e0afa3e0d8946a077ace643761341340fd379b9e807c9804c9659767",
+    "updated_sha256": "6f461325d184247e48204e995c0ffdcb0ccbd72c28e40beb07554e6e28990521"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_01001_01500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "d18305dc482d86c101e6261c399c344becfc49bc011af4f047288c49b220ea9e",
+    "updated_sha256": "19db8511890b7c24ae80e175b77fd22240ca9ac3b019e0f535dc31ca5aca89f7"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_01501_02000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3168f4352a0c30c3b68467a7fb2521060f886d59b8836f99977752c615bdeaae",
+    "updated_sha256": "add02c2e4117c8660bc5aea0b4553083e577a7612f4b95f360ff009e457b0e19"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_02001_02500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "9b511974ac83c83256e4e49ea4028c7baa066ea9ae94a420567596ae3c6ee6ef",
+    "updated_sha256": "1daaeaf0f28ea732bb50bc9b3c25e987c085c3d5e4b6518178b38946feef81fd"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_02501_03000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ae2548f448386f512448be6b05b342ae14724ec2451265898901755a2629a4ea",
+    "updated_sha256": "85013e99151079316768ad05b72e55e48edf8952cc138eccb4539e7259a0b0fc"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_03001_03500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "9e17b2f5a9bac5e9c6203a9217693013817e7869b873870e13d6a2cc47462442",
+    "updated_sha256": "95fc8099743d811525e0ab7d0e7c3b2bde12cfedc30a66d67aaa318962df51a5"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_03501_04000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "f8f78a94bbced25303dc1fb903c5ed7e19812cf12becfab2b20ae46783807345",
+    "updated_sha256": "776a8d116099ebd12a531b8211c3c6b447ca9e6f353b17c14c4c2734a78e13a7"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_04001_04500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "2ff3ff57c3cc5ba4e2cca838a513ea21c2515cbe28bff9a9f62e24b21c2ac0fd",
+    "updated_sha256": "1dbcb7abb3341ddd9f16a6d566acc659522b05b54d886bf25efd07ff5998c149"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_04501_05000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "4323f1aa2b47278e03a493c0d3e387478652db9bce46ca39e37cc1ebe58b70bd",
+    "updated_sha256": "fb595dca282b5a4fb8468f926bec1a3c3d25d49f6caa4a3448e16a57da1008e2"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_05001_05500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "d18d2779a7e6146b86805edc7dc8f64fefd3c89e53c18cffa892f48e8119262a",
+    "updated_sha256": "a1f98307713a53906da6e1b32156f22d88a774c1d0284a8b408534a7858b8f73"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_05501_06000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c528d17160f2a288aac0e69301f8cf39e60ad4d8c74f907553ddb4f6d2994078",
+    "updated_sha256": "5bdb8889c399093d793cdc12ab8e5248a8e29b2b02a531cacacb9680237a6721"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_06001_06500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ce95142670aa6599bef8e74be4d10bcab206c0abaad9cb08c7552e6f86d408c0",
+    "updated_sha256": "349e80caa3e0333e0e44cd0488a02c808b7c557e0634b3d5722fdb1d563f8f2f"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_06501_07000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "f030ad7b7e3ac1d5f66bd808e1689e656b9602dd079435cf0872f23c6bc692ee",
+    "updated_sha256": "23a3c296b58feda5042346466ef4c1cc316ce94cee29ab5e446540af42263571"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_07001_07500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "43214d66420b4f86cd31020c1471159f504bc6a495885471957e2cfffd33b83a",
+    "updated_sha256": "9103c5d4da6972f8b14ba1f8721023582829a81e8535fce0939c9035a28258ca"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_07501_08000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "b98a645401aaa686e75768f1d3b415c08066c57df96c5af6b1a8a404cba0d8b8",
+    "updated_sha256": "cac68d57868b46eaead8d134b5f3988eceff08c9503ab87429ed58a25997bb0c"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_08001_08500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "be34a64f6d940718c377eecd2283b7d5ace43bf7a7543e99e2ecf724be193313",
+    "updated_sha256": "2530f48e519108a40ea891a1f57cb530661c49e03a882c6caaa47786f7af754e"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_08501_09000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c8d4aea1df202bd520dca9e1dcd9a175b96bc1197a4585b524b8db6352a16e3e",
+    "updated_sha256": "4696d0d0eee2ea64f6aa4bc70faf494d7a7c181d497d38a1e8d71bcd01e3a0b3"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_09001_09500.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "4ea01365bcb32e123270e0074635637244344dbf74050c73dbc6bddbfcb69785",
+    "updated_sha256": "2a660adff532151b4494bedd313208b051aed0317c9d49b66ea0df6901ae6ee2"
+  },
+  {
+    "path": "payload/JA21-JA-Service-and-Protocol-Language-Suite-1.0.0-main/JA21_JASP_Suite_1.0.0.expanded/JA21_JASP_Suite_1.0.0/corpus/technical/shards/JASP_09501_10000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "5b929e491a4cc6719610e27cbafad1147e587b1b9691ad2163a819292bd088a1",
+    "updated_sha256": "6e651f6c7f8082c7ac98181bc65bd3108fe3acd021461b65234f75e3b650857b"
+  }
+]

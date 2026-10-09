@@ -1,0 +1,21 @@
+ja source 0.3
+module corpus.ja_service.example_09023
+use Service
+policy explicit_network
+
+service ServiceJASP_09023 {
+    message Request4 { prompt: Text }
+    message Response4 { token: Text, done: Flag }
+    endpoint infer(request: Request4) -> Stream<Response4>
+        auth capability model.infer
+        deadline 4s
+        retry max 3
+        idempotency request.prompt
+    protocol Session4 {
+        state Open
+        state Closed
+        transition finish: Open -> Closed
+    }
+}
+assert protocol.transition.valid == true
+emit json ServiceJASP_09023.compatibility_report

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JA Service R12/MCRT Evidence Profile",
+  "type": "object",
+  "required": [
+    "source_hash",
+    "ast_node",
+    "semantic_judgment",
+    "r12_record",
+    "mcrt_record",
+    "policy_status",
+    "determinism_class"
+  ],
+  "properties": {
+    "source_hash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "ast_node": {
+      "type": "string"
+    },
+    "semantic_judgment": {
+      "type": "string"
+    },
+    "r12_record": {
+      "type": "string"
+    },
+    "mcrt_record": {
+      "type": "string"
+    },
+    "policy_status": {
+      "enum": [
+        "allowed",
+        "denied"
+      ]
+    },
+    "determinism_class": {
+      "type": "string"
+    },
+    "compatibility_identity": {
+      "type": "string"
+    },
+    "serialization_identity": {
+      "type": "string"
+    }
+  }
+}
